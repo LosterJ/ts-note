@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "start": "ts-node"
+  },
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
+}
